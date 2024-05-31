@@ -12,7 +12,7 @@ Our paper: CVTE-Poly A New Benchmark for Chinese Polyphone Disambiguation, Inter
     ├── data
     │   ├── CVTE-poly            
     │   ├── POLYPHONIC_CHARS.txt  # generate from `digest_cedict.pkl` by script `cedict2csv.py`
-    │   ├── cpp                   
+    │   ├── cpp                   # combine `g2pm/data` and `g2pW/`
     │   └── digest_cedict.pkl     # dictionary has been corrected
     ├── g2pW
     ├── g2pm
@@ -22,5 +22,5 @@ Our paper: CVTE-Poly A New Benchmark for Chinese Polyphone Disambiguation, Inter
 
 ### notes
   - `.pos` files are prepared for g2pW training
-    - in `data/CVTE-poly`, the POS are labeled by `ckiptagger` [https://github.com/p208p2002/ckiptagger?tab=readme-ov-file]), same as `g2pW` does
+    - in `data/CVTE-poly`, the POS are labeled by `ckiptagger` [https://github.com/p208p2002/ckiptagger?tab=readme-ov-file], same as `g2pW` does
     - in `data/cpp`, the POS are downloaded from `g2pW` repo and processed by `filter_pos.py`. Please refer to the scripts.
