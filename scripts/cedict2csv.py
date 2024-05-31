@@ -17,7 +17,7 @@ with open('./phones.csv', 'w') as f:
         f.write('\n')
 
 # for g2pw
-with open('../data/cpp/POLYPHONIC_CHARS.txt', 'w') as f:
+with open('../data/POLYPHONIC_CHARS.txt', 'w') as f:
     for char, phones in data:
         for phone in phones:
             f.write('%s\t%s\n' % (char, phone))
