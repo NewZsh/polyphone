@@ -12,7 +12,7 @@ Our paper: CVTE-Poly A New Benchmark for Chinese Polyphone Disambiguation, Inter
     ├── data
     │   ├── CVTE-poly            
     │   ├── POLYPHONIC_CHARS.txt  # generate from `digest_cedict.pkl` by script `cedict2csv.py`
-    │   ├── cpp                   # combine `g2pm/data` and `g2pW/`
+    │   ├── cpp                   # combine `g2pm/data` and `g2pW/cpp_dataset`
     │   └── digest_cedict.pkl     # dictionary has been corrected
     ├── g2pW
     ├── g2pm
