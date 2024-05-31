@@ -1,4 +1,4 @@
-root = './cpp_dataset/'
+root = '../data/'
 
 manual_seed = 1313
 model_source = 'bert-base-chinese'
