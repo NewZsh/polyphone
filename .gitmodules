@@ -1,6 +1,3 @@
 [submodule "g2pm"]
 	path = g2pm
 	url = git@github.com:kakaobrain/g2pm.git
-[submodule "g2pW"]
-	path = g2pW
-	url = git@github.com:NewZsh/g2pW.git
