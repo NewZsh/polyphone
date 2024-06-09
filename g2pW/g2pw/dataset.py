@@ -9,12 +9,34 @@ ANCHOR_CHAR = '▁'
 
 def prepare_data(sent_path, lb_path=None):
     raw_texts = open(sent_path).read().rstrip().split('\n')
-    query_ids = [raw.index(ANCHOR_CHAR) for raw in raw_texts]
-    texts = [raw.replace(ANCHOR_CHAR, '') for raw in raw_texts]
+    # multiple ANCHOR_CHAR in a single text is allowed
+    query_ids = []
+    texts = []
+    for raw_text in raw_texts:
+        query_id = []
+        cnt = 0
+        sig = 0
+        for i, char in enumerate(raw_text):
+            if char == ANCHOR_CHAR:
+                if sig == 0:
+                    sig = 1
+                    query_id.append(i - 2 * cnt)
+                else:
+                    sig = 0
+                    cnt += 1
+        query_ids.extend(query_id)
+        for _id in query_id:
+            texts.append(raw_text.replace(ANCHOR_CHAR, ''))
+
     if lb_path is None:
         return texts, query_ids
     else:
-        phonemes = open(lb_path).read().rstrip().split('\n')
+        phonemes = []
+        for line in open(lb_path):
+            line = line.rstrip()
+            if line == '':
+                break
+            phonemes.extend(line.split())
         return texts, query_ids, phonemes
 
 
@@ -39,7 +61,10 @@ def get_char_phoneme_labels(polyphonic_chars):
 
 
 def prepare_pos(pos_path):
-     return open(pos_path).read().rstrip().split('\n')
+    pos = []
+    for line in open(pos_path):
+        pos.extend(line.rstrip().split("\t"))
+    return pos
 
 
 class TextDataset(Dataset):
@@ -143,6 +168,8 @@ class TextDataset(Dataset):
         }
 
         if self.use_pos and self.pos_tags is not None:
+            # print(idx, len(self.pos_tags))
+            # print(self.pos_tags[idx], len(self.POS_TAGS))
             pos_id = self.POS_TAGS.index(self.pos_tags[idx])
             outputs['pos_id'] = pos_id
 
