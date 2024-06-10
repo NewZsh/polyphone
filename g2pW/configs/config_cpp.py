@@ -30,6 +30,7 @@ test_pos_path = root + CPP + 'test.pos'
 train_sent_path_cvte = root + CVTE + 'train.sent'
 train_lb_path_cvte = root + CVTE + 'train.lb'
 train_pos_path_cvte = root + CVTE + 'train.pos'
+with_cvte = False
 batch_size = 256
 lr = 5e-5
 val_interval = 200

@@ -8,8 +8,7 @@ ANCHOR_CHAR = '▁'
 
 
 def prepare_data(sent_path, lb_path=None):
-    raw_texts = open(sent_path).read().rstrip().split('\n')
-    # multiple ANCHOR_CHAR in a single text is allowed
+    raw_texts = open(sent_path).readlines()
     query_ids = []
     texts = []
     for raw_text in raw_texts:
@@ -20,22 +19,25 @@ def prepare_data(sent_path, lb_path=None):
             if char == ANCHOR_CHAR:
                 if sig == 0:
                     sig = 1
-                    query_id.append(i - 2 * cnt)
+                    query_ids.append(i - 2 * cnt)
                 else:
                     sig = 0
                     cnt += 1
-        query_ids.extend(query_id)
-        for _id in query_id:
-            texts.append(raw_text.replace(ANCHOR_CHAR, ''))
+        text = raw_text.replace(ANCHOR_CHAR, '')
+        for i in range(cnt):
+            texts.append(text)
 
     if lb_path is None:
         return texts, query_ids
     else:
         phonemes = []
+        i = 0
         for line in open(lb_path):
             line = line.rstrip()
+            i += 1
             if line == '':
-                break
+                print(i)
+                exit()
             phonemes.extend(line.split())
         return texts, query_ids, phonemes
 
@@ -168,8 +170,6 @@ class TextDataset(Dataset):
         }
 
         if self.use_pos and self.pos_tags is not None:
-            # print(idx, len(self.pos_tags))
-            # print(self.pos_tags[idx], len(self.POS_TAGS))
             pos_id = self.POS_TAGS.index(self.pos_tags[idx])
             outputs['pos_id'] = pos_id
 
