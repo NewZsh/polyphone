@@ -2134,7 +2134,7 @@ N
 UNK
 UNK
 N
-N
+UNK
 V
 UNK
 UNK
@@ -5426,7 +5426,7 @@ N
 UNK
 N
 N
-N	N
+N	UNK
 N
 N
 N
@@ -5460,7 +5460,7 @@ V
 N
 N
 N
-UNK
+N
 N	N
 N
 N
@@ -5484,7 +5484,7 @@ UNK
 N	N
 N
 N
-V
+N
 N	V
 N
 N
@@ -24913,7 +24913,7 @@ N
 N
 N
 N
-V
+N
 N
 N
 N
@@ -25020,7 +25020,7 @@ V
 V
 V
 N
-V	N
+V	V
 V	N
 V
 N
@@ -26607,7 +26607,7 @@ V
 V
 V
 V
-V
+N
 V
 V
 V	V	V
@@ -26966,7 +26966,7 @@ V
 V
 N
 V
-V
+N
 V
 V
 V
@@ -27872,7 +27872,7 @@ N
 N	N
 N
 N	N
-N
+UNK
 N
 N	N
 V
@@ -29348,7 +29348,7 @@ UNK
 UNK
 UNK	N
 N
-N
+UNK
 N	N
 UNK
 N
@@ -42329,7 +42329,7 @@ UNK	UNK
 UNK
 V
 V
-UNK
+N
 UNK
 V
 N
@@ -48568,7 +48568,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N	V
 N	N	N
@@ -68358,7 +68358,7 @@ N
 N
 N
 N
-V
+N
 V
 V
 N
@@ -76299,7 +76299,7 @@ V
 N
 V
 V
-V
+N
 N
 V
 N
@@ -80568,7 +80568,7 @@ N
 UNK
 V
 UNK
-N
+UNK
 UNK
 N
 N
@@ -88045,7 +88045,7 @@ UNK	N
 UNK	N
 N
 UNK
-N
+UNK
 N
 UNK	UNK
 UNK
@@ -89736,7 +89736,7 @@ UNK
 UNK
 N
 UNK
-N	N	N	N	N	N	N	N	N	N	N
+N	N	N	N	N	N	N	N	N	UNK	N
 UNK
 UNK
 UNK
@@ -102352,7 +102352,7 @@ N
 N
 DE
 N
-DE
+N
 N
 N	N
 DE
@@ -112645,7 +112645,7 @@ DE
 N
 N
 DE
-DE
+N
 V
 V
 V
@@ -121760,7 +121760,7 @@ N
 V
 V
 N
-N
+V
 V
 N
 V
@@ -124041,7 +124041,7 @@ V
 V
 V
 V
-V
+UNK
 V
 N
 N
@@ -127774,7 +127774,7 @@ V
 N
 V
 N
-N
+V
 N
 V
 N
@@ -128003,7 +128003,7 @@ V
 N
 N
 N
-V
+N
 V
 V
 N
@@ -128943,7 +128943,7 @@ V
 N
 N
 N
-N
+V
 UNK
 V	N
 N	V
@@ -130094,7 +130094,7 @@ V
 D
 V
 V
-N
+V
 V
 D
 V
@@ -130336,7 +130336,7 @@ V
 N	UNK	V	N	N	N	N
 N	N	N	V
 N
-N	V	N
+N	N	N
 N
 N
 UNK	N
@@ -138488,7 +138488,7 @@ N
 V
 V
 P
-P
+V
 D
 V
 N
@@ -139553,7 +139553,7 @@ D
 D
 D
 N
-V
+D
 D
 N
 N
@@ -145950,7 +145950,7 @@ N
 N
 N
 N
-N	N	N
+N	N	UNK
 N
 N	N	N
 N
@@ -148454,7 +148454,7 @@ V
 UNK
 N
 N
-N
+V
 N
 N
 N
@@ -150202,7 +150202,7 @@ V
 N
 N
 V
-V	N	N	P	N
+V	N	N	N	N
 P	N
 V
 N
@@ -152628,7 +152628,7 @@ V
 V	V	V
 V
 V
-V
+D
 V
 V
 V
@@ -160850,7 +160850,7 @@ N
 N
 N
 N
-V
+N
 V
 N
 N
@@ -182766,7 +182766,7 @@ V
 V
 N
 N
-N
+V
 N	N	N
 V
 N
@@ -184411,7 +184411,7 @@ N
 N
 N
 N
-V
+N
 N
 N
 V
@@ -216567,7 +216567,7 @@ N
 N
 N
 N
-V
+N
 N
 N
 N
@@ -217176,7 +217176,7 @@ N
 N
 N
 V
-UNK
+V
 N
 V
 V
@@ -217261,7 +217261,7 @@ N
 N
 V
 N
-V
+N
 N
 N
 N
@@ -218414,7 +218414,7 @@ N
 V
 V
 N
-N
+V
 V
 V
 V
@@ -223982,7 +223982,7 @@ N
 N
 N
 N	UNK
-UNK
+N
 N
 N
 N
@@ -223995,7 +223995,7 @@ UNK
 N	N
 N
 N
-UNK
+N
 N
 N	UNK
 N
@@ -226617,7 +226617,7 @@ N
 N
 N	N	N	V
 N
-N
+UNK
 N
 N
 N
@@ -230951,10 +230951,10 @@ N
 N	N	N	N	N
 N
 N
+UNK
 N
 N
-N
-N
+UNK
 N
 UNK
 N
@@ -235998,7 +235998,7 @@ N
 N
 N
 N
-UNK
+N
 N
 UNK
 UNK
@@ -243708,7 +243708,7 @@ N
 N
 N
 UNK
-UNK
+N
 N
 N
 UNK
@@ -244722,7 +244722,7 @@ N
 N
 V
 V
-N
+UNK
 N
 N
 N
@@ -252025,7 +252025,7 @@ N
 P
 N
 P
-P
+N
 N
 N
 P
@@ -253799,7 +253799,7 @@ N
 UNK
 V
 N
-V
+N
 N
 UNK
 N
@@ -255029,7 +255029,7 @@ V
 V
 N
 N
-N
+V
 N
 N
 N
@@ -272786,7 +272786,7 @@ N
 N
 N
 UNK
-N
+UNK
 UNK
 N
 N
@@ -273811,7 +273811,7 @@ V
 UNK
 UNK
 UNK
-UNK
+N
 UNK
 UNK
 N
@@ -275430,7 +275430,7 @@ N
 N	N
 N
 N	N	N	N	N	N	N	N	N
-N	N	N	V
+N	N	N	N
 N
 N
 N
@@ -277164,7 +277164,7 @@ V
 N
 N
 V
-N
+V
 N
 V
 N
@@ -282628,7 +282628,7 @@ V
 N
 N
 N
-N
+UNK
 N
 N
 N
@@ -289835,7 +289835,7 @@ A
 N
 N
 N
-N
+A
 N
 N
 N
@@ -293922,7 +293922,7 @@ N
 N
 N
 N
-N
+UNK
 N
 N
 N
@@ -298769,7 +298769,7 @@ N
 N
 N
 N
-N	N
+N	V
 N
 N
 UNK
@@ -299748,7 +299748,7 @@ N
 UNK
 N
 UNK
-V
+N
 N
 N
 N
@@ -312464,7 +312464,7 @@ N
 N
 N
 N
-N	N	N	N	V	N
+N	N	N	N	N	N
 V
 N
 N
@@ -323677,7 +323677,7 @@ UNK
 UNK
 N
 UNK
-UNK
+N
 UNK
 N
 N
@@ -324225,7 +324225,7 @@ V
 N
 N
 N
-V
+N
 N	N
 V
 N
@@ -326118,7 +326118,7 @@ N
 V
 N
 N
-D
+V
 N
 N
 N
@@ -327530,7 +327530,7 @@ N
 N
 N	N
 N
-N
+UNK
 N
 N
 UNK
@@ -327554,7 +327554,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N
 N
@@ -343217,7 +343217,7 @@ N
 UNK
 V
 V
-UNK
+N
 N
 N
 N
@@ -346645,7 +346645,7 @@ N
 UNK
 V
 N
-UNK
+V
 N
 N
 UNK
@@ -354584,7 +354584,7 @@ N	N	N
 N
 N
 N
-N
+UNK
 N
 N
 V
@@ -406636,7 +406636,7 @@ N
 N
 UNK
 N
-UNK
+N
 UNK
 UNK
 N
@@ -412177,7 +412177,7 @@ N
 N
 N
 UNK
-UNK
+N
 N
 UNK
 N
@@ -412234,7 +412234,7 @@ N
 N
 N
 N
-UNK
+V
 N
 V
 N
@@ -419155,7 +419155,7 @@ N
 N
 N
 N
-N
+V
 N
 N
 N
@@ -437534,7 +437534,7 @@ N
 N
 N
 N
-N
+V
 V
 N
 N
@@ -457001,7 +457001,7 @@ UNK
 N
 N
 UNK
-N
+UNK
 N
 N
 N
@@ -462234,7 +462234,7 @@ N
 V
 V
 V
-V
+N
 N
 UNK
 N
@@ -463024,7 +463024,7 @@ N
 N
 N
 N
-N
+UNK
 UNK
 N
 N
@@ -471278,7 +471278,7 @@ N
 UNK
 UNK
 UNK
-N
+UNK
 N
 N
 UNK
@@ -476089,7 +476089,7 @@ V
 N
 V
 V
-V	UNK
+V	N
 N	N
 V
 V
@@ -476664,7 +476664,7 @@ N
 N
 N
 N
-V
+N
 V
 N
 N
@@ -489977,7 +489977,7 @@ N
 N
 N
 N
-V
+N
 V
 N
 N
@@ -501360,7 +501360,7 @@ N
 N
 N
 V
-V
+N
 N
 N
 N
@@ -505032,7 +505032,7 @@ UNK
 UNK
 UNK
 UNK
-UNK
+N
 UNK
 N	UNK
 N	UNK	UNK
@@ -510608,7 +510608,7 @@ V
 N
 N
 UNK
-N
+UNK
 UNK
 N	UNK
 UNK	N	N	N	N
@@ -510848,7 +510848,7 @@ N	N
 N
 N
 N
-UNK
+N
 N
 N	N
 N
@@ -524952,7 +524952,7 @@ N	N
 UNK
 N
 N
-V
+N
 N
 UNK
 N
@@ -525145,7 +525145,7 @@ V	UNK
 UNK
 UNK
 V
-UNK
+N
 N
 V
 V
@@ -531289,7 +531289,7 @@ N
 UNK
 N
 UNK
-N
+V
 UNK
 N
 N
@@ -532606,7 +532606,7 @@ N
 N
 N
 N
-V
+N
 V
 V
 N
@@ -541967,7 +541967,7 @@ V
 N
 V
 A
-V
+N
 V
 V
 V
@@ -548487,7 +548487,7 @@ D
 V
 V
 N
-V
+N
 N
 V
 V
@@ -558651,7 +558651,7 @@ N
 N
 N
 N
-N
+UNK
 N
 N
 N
@@ -571383,7 +571383,7 @@ N
 UNK
 N
 UNK
-N
+UNK
 N
 N
 UNK
@@ -585170,7 +585170,7 @@ V
 N
 N
 N
-V
+N
 V
 N
 V
@@ -585219,7 +585219,7 @@ N
 V
 N
 N
-N
+V
 N
 N
 N
@@ -585575,7 +585575,7 @@ UNK
 N
 UNK
 UNK
-N
+UNK
 N
 UNK
 N
@@ -592374,7 +592374,7 @@ N	N
 N
 N	N	N
 N	N
-UNK
+N
 N
 N
 N
@@ -607581,7 +607581,7 @@ N
 N
 N
 N
-N
+V
 N
 V
 V
@@ -612088,7 +612088,7 @@ N
 T
 T	N
 T
-V
+N
 T
 N
 N	T
@@ -613954,7 +613954,7 @@ N
 N
 N
 N
-N
+V
 N
 N
 N
@@ -617209,7 +617209,7 @@ N
 N
 N
 N
-N
+V
 V
 N
 N	V
@@ -622442,7 +622442,7 @@ N
 N
 N
 N
-V
+N
 N
 N
 N
@@ -634469,7 +634469,7 @@ V
 N
 V
 V
-V
+N
 V
 V
 V
@@ -635838,19 +635838,19 @@ V
 N
 V
 V
-N
-V
-N
-N
 V
 V
 N
+N
+V
+V
+N
 V
 N
 V
 V
 V
-N
+V
 V
 V
 N
@@ -648456,7 +648456,7 @@ UNK
 UNK
 UNK
 N
-UNK
+N
 N
 N
 N
@@ -656750,7 +656750,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N	N
 N
@@ -660401,7 +660401,7 @@ UNK
 UNK
 UNK
 N
-N
+UNK
 UNK
 N
 N	N
@@ -660749,7 +660749,7 @@ N
 N
 N
 UNK
-N
+UNK
 UNK
 UNK
 N
@@ -668179,7 +668179,7 @@ N
 N
 N
 UNK
-N	V
+N	N
 N
 N
 N
@@ -669978,7 +669978,7 @@ UNK
 N
 UNK
 UNK
-UNK
+N
 N
 UNK
 N
@@ -672814,7 +672814,7 @@ N	N
 UNK	N
 UNK
 UNK
-UNK
+N
 N	N
 N	UNK
 N
@@ -675826,7 +675826,7 @@ C
 P
 C
 N
-C
+P
 C
 P
 N
@@ -677160,14 +677160,14 @@ N
 N
 N
 N
-N
+V
 N
 N
 N
 N
 V	N
 N
-V
+N
 N
 N
 V
@@ -678736,7 +678736,7 @@ C
 C
 C
 V
-P
+C
 C
 V
 P
@@ -678798,7 +678798,7 @@ N
 N
 C
 C
-V
+C
 V
 V
 C
@@ -680238,7 +680238,7 @@ N
 V
 V
 N
-P
+V
 N
 V
 P
@@ -685564,7 +685564,7 @@ UNK
 V
 N
 V
-N
+UNK
 UNK
 V
 UNK
@@ -688808,7 +688808,7 @@ N
 V
 N
 N
-N
+V
 N
 V
 N
@@ -689816,7 +689816,7 @@ UNK
 V
 N	UNK
 N
-UNK
+N
 UNK
 V
 V
@@ -690557,7 +690557,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N
 N
@@ -693074,7 +693074,7 @@ N
 V
 N
 N
-N
+UNK
 N
 N
 N
@@ -695542,7 +695542,7 @@ N
 UNK
 V
 N
-N
+UNK
 V
 V
 V
@@ -697868,7 +697868,7 @@ N
 N
 UNK
 N
-UNK
+N
 N
 N
 N
@@ -699220,7 +699220,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N
 N
@@ -700493,7 +700493,7 @@ N
 N
 UNK
 N
-UNK
+N
 N
 N
 N
@@ -706764,7 +706764,7 @@ N
 N
 N
 N
-N
+UNK
 N
 N
 N
@@ -710477,7 +710477,7 @@ UNK
 UNK
 UNK
 UNK
-UNK
+N
 N
 UNK
 N
@@ -711363,7 +711363,7 @@ UNK
 N
 N
 N
-UNK
+N
 N
 N
 N
@@ -711651,7 +711651,7 @@ UNK
 UNK
 UNK
 UNK
-UNK
+V
 UNK
 UNK
 N
@@ -711678,7 +711678,7 @@ UNK
 N
 N
 UNK
-UNK
+V
 UNK
 UNK
 N
@@ -712929,7 +712929,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N
 N
@@ -718201,7 +718201,7 @@ N
 UNK
 N
 N
-UNK
+N
 N
 UNK
 UNK
@@ -719245,41 +719245,41 @@ N
 N
 N
 N
+UNK
+N
+V
+UNK
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+N
+UNK
+UNK
+N
+UNK
+N
+N
+V
+V
+N
+N
+UNK
+UNK
+N
+N
+UNK
+N
+N
 N
 N
 V
 UNK
-N
-N
-N
-UNK
-N
-N
-N
-N
-N
-N
-UNK
-UNK
-N
-UNK
-N
-N
-V
-V
-N
-N
-UNK
-UNK
-N
-N
-UNK
-N
-N
-N
-N
-V
-UNK
 UNK
 UNK
 N
@@ -719291,7 +719291,7 @@ N
 V
 N
 UNK
-UNK
+V
 N
 N
 UNK
@@ -723353,7 +723353,7 @@ V
 V
 V
 V
-N
+V
 N
 V
 UNK
@@ -728688,7 +728688,7 @@ N
 UNK
 N
 N
-UNK
+N
 N
 N
 N
@@ -730426,7 +730426,7 @@ N
 N
 N
 N
-N
+UNK
 UNK
 UNK
 UNK
@@ -733957,7 +733957,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N
 UNK
@@ -742241,7 +742241,7 @@ N
 N
 N
 N
-N
+UNK
 N
 UNK
 N
@@ -742479,7 +742479,7 @@ N
 N
 N
 N
-N
+UNK
 N
 N
 N	N
@@ -746869,7 +746869,7 @@ N
 N
 UNK
 UNK
-UNK
+V
 UNK
 UNK
 UNK
@@ -746894,7 +746894,7 @@ UNK
 N
 N
 UNK
-UNK
+V
 N
 N
 N
@@ -754790,7 +754790,7 @@ N
 N
 N
 N
-V
+UNK
 UNK
 UNK
 N
@@ -757169,7 +757169,7 @@ N
 N
 N
 N
-N	UNK
+N	N
 N
 N
 N
@@ -757778,7 +757778,7 @@ N
 N
 N
 N
-UNK
+N
 N
 N
 N
@@ -770322,7 +770322,7 @@ V
 V
 V
 N
-V
+N
 V
 V	V
 V
@@ -771367,7 +771367,7 @@ V
 V
 N
 V
-V
+N
 V
 V
 V
@@ -775572,7 +775572,7 @@ V
 N
 N
 V	V	V
-N	N
+N	V
 V	V	V
 V
 V
@@ -775632,7 +775632,7 @@ N
 V
 N
 N
-N
+V
 N
 N	N
 N
@@ -784267,14 +784267,14 @@ N
 N
 N
 N
-N
+V
 N
 N
 N
 N
 V	N
 N
-V
+N
 N
 N
 V
@@ -786166,7 +786166,7 @@ N
 V
 UNK
 UNK
-N
+UNK
 N
 N
 UNK
@@ -792099,7 +792099,7 @@ N
 V
 N
 N
-V
+N
 N
 N
 N
@@ -797925,7 +797925,7 @@ N
 V
 N
 UNK
-V
+N
 V
 N
 N
@@ -804416,7 +804416,7 @@ N
 N
 N
 N
-V
+N
 V
 N
 N
@@ -805782,7 +805782,7 @@ N
 N
 N
 N
-V
+N
 V
 N
 N
@@ -813948,7 +813948,7 @@ N
 V
 N
 N
-V
+N
 N
 N
 N	N
@@ -822797,7 +822797,7 @@ UNK
 N
 UNK
 N
-UNK
+N
 UNK
 UNK	UNK
 UNK
@@ -822815,7 +822815,7 @@ UNK
 UNK
 UNK
 UNK
-UNK
+N
 UNK
 UNK
 UNK
@@ -825066,7 +825066,7 @@ N
 UNK
 N
 N
-D
+N
 D
 N
 N
@@ -826900,7 +826900,7 @@ UNK	UNK
 N	N	UNK	UNK
 UNK	UNK
 N	N
-N	N
+UNK	UNK
 N	N
 N	N
 UNK	UNK
@@ -829551,7 +829551,7 @@ N	N
 N	N
 N	N
 N	N
-UNK	UNK
+N	N
 N	N
 N	N	UNK	UNK
 N	UNK
@@ -831064,7 +831064,7 @@ N	N
 UNK	UNK
 V	V
 UNK	UNK
-N	N
+UNK	UNK
 UNK	UNK
 UNK	UNK
 V	V
@@ -832074,7 +832074,7 @@ N	N	N	N
 N
 N	N
 P
-P
+N
 N
 N
 N
@@ -832182,7 +832182,7 @@ N	N	N	N
 N
 N	N
 P
-P
+N
 N
 N
 N
@@ -835578,7 +835578,7 @@ N
 N
 N
 V	N
-V
+N
 N
 V
 V
@@ -837477,7 +837477,7 @@ N	N
 N
 N	N
 N	N
-N	UNK	N	N	UNK
+N	UNK	N	N	N
 N	UNK
 N
 N
@@ -839506,7 +839506,7 @@ N	N	N
 N	N	A	UNK	UNK
 A	N
 UNK	UNK
-UNK	N	N	UNK
+UNK	N	N	N
 UNK	N	A
 N
 N
@@ -839629,7 +839629,7 @@ N	UNK
 UNK	UNK
 N
 N
-N	UNK
+N	N
 UNK	UNK
 UNK	N
 UNK	N
@@ -839644,7 +839644,7 @@ N	N	UNK
 N	N
 N
 N
-UNK
+N
 N
 UNK
 N
@@ -839677,4 +839677,5576 @@ N
 N
 N
 UNK
+V
+UNK
+UNK
+N
+UNK
+UNK
+UNK
+UNK	UNK	UNK
+UNK
+N
+UNK
+UNK
+V
+N
+N	V
+N
+V
+V
+V
+V
+V
+N
+V
+V
+UNK
+V
+V
+V
+V
+N
+V
+V
+UNK
+V
+V
+V
+V
+V
+N
+N
+V
+N
+N
+UNK
+N
+UNK
+UNK
+V
+UNK	UNK
+N
+N
+UNK
+V
+N
+V
+N
+V
+V
+V
+N
+N
+N
+N
+UNK
+N
+V
+V
+P
+V
+P
+P
+P
+V
+P
+P
+P
+P
+P
+P
+P
+P	P
+P
+P
+P
+P
+P
+P	P
+P
+P
+N	P
+P
+P	P
+P
+N
+N	P
+N
+P
+P
+P
+P
+P
+N
+P
+N
+N
+N
+N
+N
+N	N
+P	P
+P	N	N
+P
+P
+P
+N
+P
+P
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+P
+N
+N
+N
+P
+P
+P	P
+P
+P	P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+N
+N
+P	P
+N
+P
+P
+P
+N
+P
+P
+V
+V
+N
+V
+V
+V
+V
+N
+V
+V
+V
+V
+V
+V	V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+N
+N
+N
+N
+V
+P
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	V
+N
+N
+N
+N
+P
+N
+P
+N
+N
+N
+UNK
+UNK
+UNK
+N
+UNK
+UNK
+N
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N	N
+N	N
+N	N	N
+N	N	N	UNK
+N	N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N	N	N
+N
+N	N	N	N	N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+V	N	N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N	N	N	N	N
+N
+N
+N	N
+N	N	N
+N	N
+N	N	N
+N	N
+N	N
+N	N	N	N
+N	N
+UNK
+N	N
+N
+UNK
+N
+A
+N
+N	UNK
+N
+UNK
+N
+N
+N
+N
+N
+UNK
+N
+N
+UNK
+N
+N
+UNK
+UNK
+N
+UNK	N
+N
+N	N	UNK
+N	N	N	N	N	N	N	UNK	N	UNK	N
+N
+UNK
+N	N	N	N	N	UNK	UNK	N	N
+UNK	N	UNK	N
+UNK	UNK	N	N
+N	UNK
+N
+N
+UNK	N	N	N	N	N	N	UNK	UNK
+N	N	UNK	N	N
+N
+N	N
+UNK	UNK	N
+N
+N
+N
+UNK	UNK	N
+UNK	UNK
+UNK
+UNK
+N
+UNK
+N
+N	UNK	UNK	UNK	UNK
+UNK	N	N
+N
+N
+N
+N
+UNK
+UNK
+V
+N
+N
+N
+UNK	N	N	N
+N
+N	UNK	N
+UNK	N
+N
+N	N
+V
+N	UNK
+N
+N
+UNK
+V
+N	N	V
+N	N	V	V	UNK	N	N	N
+N
+N
+N
+UNK
+UNK
+N
+N
+N
+UNK	UNK
+N	UNK
+N
+UNK	N
+N
+UNK
+N
+UNK
+N
+N
+N	N	N
+UNK	N	UNK	N	N
+UNK	UNK
+N
+N
+N	N	N	N
+UNK
+UNK
+N
+UNK
+UNK
+N	N
+N
+N	UNK	UNK
+UNK
+N	N
+N	N	UNK
+UNK	N
+UNK	N	N
+N
+UNK
+N
+UNK	N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N
+N
+N	N
+N
+N	N
+N	N	N	N
+N
+N	N	N
+N
+N
+N
+N	N	N
+N	N
+N
+V
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N	N
+N
+V
+N
+N
+N
+N
+N
+N	N	N	N
+N
+N	N
+V
+UNK
+N
+N
+N
+N
+N
+UNK
+UNK	UNK	N	N
+N	N
+UNK	UNK
+UNK	UNK
+UNK	UNK
+UNK	UNK
+UNK	UNK
+UNK	UNK
+UNK	UNK	V	V
+N	N
+N	N
+UNK	UNK
+N	N
+UNK	UNK
+UNK	UNK
+UNK	UNK
+N	N
+N	N
+N	N
+N	UNK	UNK
+V	V
+N
+V
+N
+V
+N
+V
+V
+V
+N	N
+N
+N
+N	N	N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+V
+V
+V
+N
+V
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N	N	N
+N
+N
+N
+N	N	N	N	N
+N	N
+N
+N	N	N	N	N	N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N	N
+N	N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+V	N
+N
+N
+N
+N
+N
+N
+N	V
+N
+N
+N	N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N	N
+N	N
+N
+N	N
+N	N	N
+N	N	N
+N	N
+N	N
+V	N	N	N	N	N
+N
+N
+N
+N
+N
+V
+V
+N
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V	V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+V
+V
+V
+V
+N
+V
+V
+N
+V
+V
+V
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V	V
+N	N	V
+N	N
+V
+V
+N	V
+N
+N	V
+V	V	V	V	N	N	N
+V	V	N
+V
+N
+V	N
+N
+N
+V	N
+V	V
+V	V
+V
+V	V	V
+V	N
+V	N
+V	V
+V
+V	N
+N	V
+N
+V
+N	N
+N	V
+V	V
+V	N
+V	V
+V
+V	V
+N
+N	V	V
+N
+V	V
+N	N
+N	N
+V	V
+V	V
+V	V
+V
+V
+V	N
+N	V
+V	N	V
+N
+V
+N
+N
+V
+V
+N	N
+V
+V	N
+N
+N
+V
+N
+N	V	N
+V	V	V	V	V	V	V	V
+V
+V
+V
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N	N
+V
+V
+N
+V	N
+N
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+N
+UNK
+N
+N
+N
+V
+UNK
+N
+V
+N
+N
+N
+V
+N
+N
+N
+N
+N	UNK
+UNK
+UNK
+UNK
+UNK	N
+UNK
+N
+N
+V
+N
+N
+N
+N
+N
+N
+V	V	V	N	V	N	UNK	N	V	N
+N
+N
+N
+V
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N	V	N
+N	N	N	N
+N
+N	N
+V	N
+N	N	N
+N	N
+N	N
+N
+N
+N
+UNK
+UNK
+N	UNK
+N	N	UNK
+N	V	V
+N	V	UNK	N
+N	V	N
+N	N
+V
+N	V
+N
+V
+V	N
+N
+V	N
+N	N	N
+V	N	N
+UNK
+V
+N
+N	N
+UNK	N	UNK	N
+V	N
+N	N
+UNK	N	N
+N	V
+N
+N	UNK	N
+UNK
+V	N
+UNK
+N
+N
+V
+N
+N
+N	N
+N	V
+N
+V
+N
+UNK
+N	UNK	UNK	N	N	N	N
+N
+V	N	N
+N
+N	N
+N	N
+N	V
+N
+N
+V
+N
+UNK	N	N
+N
+N	N
+N	N
+N
+N
+V
+N
+V
+N
+N
+UNK
+N
+V
+UNK
+V
+V
+N
+UNK
+N
+UNK
+N
+UNK
+V	V
+N	N	UNK
+UNK
+D
+V
+D
+D
+N
+UNK
+UNK
+UNK
+UNK
+V
+N
+UNK
+UNK
+UNK
+N
+N
+UNK
+UNK	UNK
+N
+UNK	N
+N
+N
+N
+N
+UNK
+N
+UNK	UNK
+UNK
+UNK	N
+UNK
+N
+N
+V
+UNK
+UNK	N
+UNK
+V
+N
+UNK
+UNK
+UNK
+N
+UNK	N
+UNK
+UNK	N
+UNK	N
+N	N	N
+N	N	N	N	N	N
+N
+N	N
+N
+N	N
+UNK
+N
+N	N
+N	N
+N
+N	N
+N
+N
+N
+N
+N	N
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N	N	N
+N	N	N
+N
+N	N	N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+UNK
+V	N
+UNK
+UNK
+N
+UNK	N
+N
+UNK
+UNK
+N
+UNK
+N
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+UNK
+UNK
+N
+UNK
+N
+V
+UNK	UNK
+N	N
+UNK	UNK
+UNK	UNK
+UNK	UNK
+N	N
+UNK	UNK
+N	N
+N	N	UNK	UNK
+UNK	UNK
+UNK	UNK
+N	N
+UNK	UNK
+UNK	UNK
+UNK	UNK
+UNK
+V
+UNK
+V
+UNK
+N
+V
+UNK
+N
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+N
+UNK	UNK
+N
+V
+V
+V
+V
+N
+V
+N
+N
+N
+N
+UNK
+V
+UNK
+N
+N
+V
+N
+V
+UNK
+N
+N
+UNK	N
+N
+V
+N
+N
+UNK
+UNK
+N
+UNK
+V
+N
+N
+V
+V
+UNK
+N
+N
+V
+N
+N
+V
+V
+V
+V	V
+UNK
+UNK
+UNK
+N
+N
+N
+N
+V
+V
+V
+V
+V
+N
+V
+N	N
+V
+N
+V
+N
+V
+N
+N
+V
+V
+V	UNK
+V
+N
+V
+N
+V
+N	N	N
+N
+N
+N
+N
+V
+V
+V
+V	V
+V
+N	N
+N
+N
+N
+V
+V
+V
+V
+I	I	V	V
+V	V
+V	V
+V	V
+I	I
+V	V
+V	V
+N
+V
+V
+V
+UNK
+N
+V
+V
+V
+V
+N
+V
+V
+N
+V
+V	V
+N
+V
+V
+V
+V
+V
+I
+V
+N
+V
+N
+N
+UNK	UNK
+UNK	UNK
+N	N
+N	N
+UNK	UNK
+UNK	UNK
+N	N
+UNK	UNK
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N	N
+N	N
+N
+N
+N	N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+V	V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+V
+V
+V	V
+V
+N
+N
+V
+V
+N
+V
+N
+V	V
+N	N	N	N
+V	V
+V	V
+V	V
+V	V
+V	V
+V	V
+N	N
+V	V
+V	V
+V	V
+V	V
+V	V
+N	N
+N	N
+V	V
+V	V
+V	V
+V	V	V	V	V	V	V	V
+V
+V
+V
+N
+N
+N
+N
+N
+V
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N
+N	N	N
+N
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N	N	N	N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N	N	N
+N	N
+N	N
+N
+N
+V
+N
+N	N
+N
+N
+N
+N	N	N
+N
+N	N
+N
+N	N
+N	N	N
+N
+N
+N
+N
+N	N
+N	N
+N
+N	N
+N
+N	N	N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N	N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N	N
+N	N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N	N	N
+N
+N
+N
+N
+N	N	N
+N	N	N
+N	N	N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N
+N	N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+N	N
+N	N
+N	N	N
+N	N	N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+V	N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N	N
+N
+N
+N
+N	N	N	N	N	N	N	N	N
+N	N
+N
+N
+N
+N
+N
+N
+N	N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+V
+V
+N
+V
+V
+N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N	N
+N	N
+N	N
+N
+N
+N	N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N	N
+V
+N	N
+N	N
+N
+N
+N
+N
+N	N
+N
+V
+N
+N
+N
+N
+N
+V
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+UNK
+N
+V
+N
+N
+N
+N
+UNK
+UNK	N
+N
+N	N
+N	N
+N
+N
+N
+UNK
+N
+N
+V
+N
+UNK
+N
+N
+N
+N
+N
+N
+UNK
+UNK
+V
+V
+N
+N
+N
+N
+V
+N
+V
+V
+N
+V
+N
+N
+N
+V
+V
+N
+N
+N
+V
+V
+V
+N
+UNK
+V
+N
+N
+N
+N
+UNK	UNK
+N
+N
+UNK
+UNK
+UNK
+V	N
+N
+N
+N
+N
+N
+N
+V
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N	N	N
+N	N	N
+N
+N	N
+N
+N
+N
+N
+N	N
+V
+N	N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N	N
+N
+N
+N	N
+N
+N
+N
+N	V
+N	N
+V
+N
+N
+N
+N	N	N
+N
+N
+N
+N	N	N
+N
+N	N
+V	N
+UNK
+N
+N
+N
+N	UNK
+N
+N	N
+N
+N
+N
+UNK	N	N
+N
+N
+N
+N
+V
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N	N
+N
+V
+N
+N	UNK
+UNK
+UNK
+V
+N
+UNK
+V
+D
+V
+V
+I
+V
+N
+UNK
+UNK
+V
+V
+UNK
+UNK
+V
+V
+V
+V
+V	N
+N
+N
+N
+V
+V
+V
+N
+V
+N
+N
+N
+V
+V
+V
+N
+UNK
+N
+N
+N
+N
+N
+V
+V
+V
+N
+V
+N
+N
+N
+UNK
+UNK
+N
+V
+UNK
+V
+V
+UNK
+UNK
+N
+N
+N	UNK	N	N
+N	UNK	N
+UNK
+N
+UNK	UNK
+N
+N
+V
+UNK
+N
+N
+N	N
+N
+UNK
+N	UNK	UNK
+UNK
+N
+N
+UNK	N
+UNK
+UNK
+N
+N	UNK
+UNK
+N
+UNK	V
+N
+UNK
+V
+UNK
+UNK	UNK
+N	UNK
+UNK
+UNK	UNK
+N
+N
+V
+N
+V
+N
+V
+N
+UNK
+UNK
+V
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+N	N
+I	N
+N	N
+I
+N	V
+V
+N
+N
+V
+N
+N
+N
+V
+N
+N
+I
+N
+N
+N
+I
+N
+V
+N
+V
+V
+V
+V
+V
+V
+V
+V
+UNK
+UNK
+N
+N	UNK	UNK
+UNK
+UNK
+N
+V
+V
+V
+N
+V
+V
+V
+N	N	V
+V	V
+N
+V
+V	V
+N
+V
+N	V
+N
+V
+N
+V
+V
+V
+V
+V
+N	V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V	V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V	V
+N
+V
+V
+V
+V
+V
+N
+V
+V
+N
+N
+V
+V
+V
+V	V
+V
+V
+V
+V	V
+V
+V
+V	A
+V
+V
+V
+V
+V
+V	V	V
+V
+V
+V	N
+V
+V	V	V
+V
+V
+V
+V
+V	V
+V	V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+N
+N
+N
+N
+N
+N
+V	V
+N
+N
+V
+V	N
+N
+V	N
+N
+V
+V
+V	N
+N
+V
+V	N
+V
+N
+N
+V	V
+N	V	V
+N
+N
+N
+V
+N
+V
+V
+N
+N
+N
+V
+V
+N	N	N
+N
+N
+N
+V	N
+V
+V
+N	N	V
+V
+V	N
+V
+V	V
+N	V	V
+V
+V	N
+N
+N
+V	V	N
+N	N
+V
+V
+V
+N	V
+N
+V
+N
+V
+N	N	N
+V
+V
+N
+N
+V
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+V
+V
+V
+V
+V
+V
+V	V
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+V
+V
+V
+V
+V
+V	V
+V	V
+V	V	V
+N
+N
+N
+N
+V
+N
+UNK
+N
+N
+N	N
+N	N
+N
+V	N	N
+N
+V
+N
+N
+N
+N
+UNK
+N	N
+N
+N	N
+N
+N
+V	N	N	N
+UNK
+N
+N
+N
+N
+N
+UNK	N
+N
+N
+N
+UNK
+N
+N
+UNK
+UNK	UNK
+N
+UNK
+N
+UNK
+N	UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK	N
+UNK
+N	N
+N
+UNK	V	UNK	N	N	N
+UNK
+UNK	UNK	N
+UNK	N
+N	UNK	UNK	N	UNK	UNK
+N	N
+N	UNK	N	N	N	UNK	UNK	N
+N	UNK
+UNK
+N
+V
+N
+N	UNK	UNK
+N	V
+N
+UNK
+UNK	N
+UNK
+N
+UNK	UNK	UNK
+UNK	UNK
+N
+V
+UNK
+UNK	N
+UNK	UNK
+N	UNK	N
+UNK	N	UNK
+N	N	N
+UNK
+V	UNK
+UNK	V
+N	N	V
+N	N
+N
+UNK	N	UNK	N
+UNK	UNK
+N	UNK
+UNK
+UNK	N	UNK
+N
+UNK
+N	UNK
+N
+N	UNK	UNK
+N	N	UNK
+N	UNK	N	N
+UNK
+N
+N
+UNK	N
+UNK	UNK
+UNK
+UNK
+N
+UNK
+N	UNK
+UNK
+UNK
+V
+N
+UNK
+N
+UNK
+UNK
+UNK	N
+UNK	N	V
+N	UNK
+N
+N	UNK
+UNK
+N
+V
+UNK
+N
+UNK
+UNK
+N
+N	UNK
+UNK
+UNK
+N
+UNK
+UNK
+V
+UNK
+UNK
+N
+UNK	N	N
+N
+UNK	N	UNK	N
+UNK
+UNK
+UNK	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+V	V
+N
+V
+V
+V	N
+N
+N	N	N
+N
+V	N
+N	N
+N	N	N
+N
+N
+N
+N	N	N
+N
+N	N
+N
+N
+N
+UNK
+UNK
+UNK
+UNK
+UNK	UNK
+N	UNK
+V
+UNK	N	V
+UNK
+UNK	N
+V
+N
+UNK
+UNK
+V
+N	UNK
+UNK
+UNK
+UNK
+V
+UNK
+UNK	UNK
+UNK
+UNK
+N	N
+N
+N
+N	UNK
+N
+N
+V
+UNK
+V
+UNK
+N	N
+N
+N	UNK
+UNK
+V
+N	N	UNK
+N
+UNK
+V
+UNK
+N
+UNK
+N	N	N
+N	N
+N	N	UNK
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+V
+UNK	V	UNK	UNK
+N
+N
+N
+UNK
+N	UNK	N
+N
+UNK
+N
+N
+N
+UNK
+N
+UNK
+UNK
+UNK
+N
+N
+UNK	V	UNK
+V
+V	N
+UNK
+N
+UNK
+N	N
+UNK
+N	UNK
+N	UNK	N	UNK
+V
+V
+N
+N
+I
+N	V
+V
+N
+N
+UNK	UNK
+N
+N
+UNK
+UNK
+UNK
+N
+N
+N
+N
+UNK
+N
+N	N
+N
+UNK
+N
+UNK	N
+V
+UNK
+UNK	UNK
+N
+V
+UNK	UNK	UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+UNK	N	N
+UNK
+UNK
+UNK
+UNK	N
+UNK
+UNK
+UNK	N
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK	UNK
+N
+V
+UNK
+UNK
+N
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+V
+V
+UNK	N
+UNK
+N
+V
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+V
+UNK
+UNK
+UNK
+UNK
+UNK	UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+V
+UNK
+N
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+V
+UNK
+N
+N
+N	UNK
+UNK
+N
+UNK
+N	UNK
+N
+V
+N
+UNK	V
+N	UNK
+UNK
+UNK
+UNK
+V	N
+UNK
+UNK	UNK
+UNK
+V
+UNK
+UNK
+UNK	UNK
+N
+N	UNK	UNK	V
+UNK
+UNK
+N
+UNK	V
+N
+UNK
+UNK
+UNK
+N
+V
+V
+V
+UNK
+UNK
+D
+UNK
+N
+N
+UNK
+UNK
+N
+UNK	N	N	N
+N
+N	N
+N
+N
+UNK
+N
+N
+UNK
+N	N
+N
+N
+N
+V
+N	N
+N
+V
+N
+N
+N
+UNK	UNK
+N
+N	UNK
+UNK
+N
+UNK
+N
+N
+N
+N
+N	N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N	N	V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N
+N
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N	N
+N	N
+N
+V
+N	N	N
+V
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+UNK
+N
+UNK
+UNK
+V
+UNK
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+UNK
+V
+UNK
+N
+UNK
+N
+N
+UNK
+N
+N
+UNK
+N
+V
+N
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+UNK
+UNK
+UNK
+N
+V	N
+N
+V
+UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+N
+UNK
+UNK
+N
+N
+N
+N	N
+UNK
+UNK
+N
+N	UNK	UNK
+UNK
+UNK
+UNK
+UNK
+UNK
+D
+UNK
+UNK	UNK
+UNK
+UNK
+UNK
+N
+UNK
+UNK
+N
+UNK
+V
+N
+V
+UNK
+UNK
+UNK
+I
+UNK
+N
+UNK
+N
+N
+N
+V
+N
+N
+UNK
+N
+N
+V
+UNK
+N
+N
+UNK
+N
+UNK
+N
+N	N	V
+N
+UNK
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N
+UNK
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+UNK
+N
+N
+N	N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+V
+V
+V
+V
+V
+N
+V
+N
+V	V
+D	D
+V
+N
+N
+V
+N
+V
+N
+V
+N
+V
+N
+N
+N
+N	N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+UNK
+N
+N
+UNK
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+N
+UNK
+N
+N
+N
+N
+V	N
+V
+UNK
+UNK	N
+N	N	UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N	N	N
+N	N
+UNK
+N
+UNK
+N
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK	N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+UNK
+N
+V	N	N
+N
+N	N	N
+V
+V
+N
+V
+UNK
+N
+V	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N
+N	N	N
+N	V
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V	V
+N	N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+V
+V
+N
+N
+V
+V
+V
+V
+V
+V	V	V
+N
+N
+N
+N
+V	N
+N
+N
+N
+N	N
+N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N	N
+V	V
+N
+N	N
+N
+N
+N	V
+N
+N
+N
+UNK
+UNK	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N	N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N	N	N	UNK	N	V
+N	N	N
+N
+N
+N
+N
+N	N	N
+N	N
+N
+V
+N	N	N
+N	N
+N	N
+N	N
+N	N
+N
+N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N
+N	N
+N
+N
+N	N
+N	N	N
+N
+N
+N
+N
+V	N	N
+N
+N	N
+N
+N	N
+N	N	N
+N
+N
+N	N	N
+N
+N
+N	V	UNK
+N	N	N	N	N
+N
+N
+N
+N
+N	N
+N
+N	N
+N
+N	N
+N
+N	N
+N
+N	N
+N	N	N
+N
+N	N	N
+N	N
+N	N
+N	N
+N
+N
+N	N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	V
+N
+V
+N
+N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+V
+N	N
+N
+N
+V	N	N	N
+N	N
+N
+N
+V	V
+N	N	N
+N
+N
+V
+N
+N	N
+N
+N
+N	N
+N
+V
+N	N
+N
+N	UNK
+N
+N	N	N	N
+N	N
+N
+N	N
+N
+N
+N	N
+N
+V	N
+N
+N
+N	N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+V
+N
+V
+N	N	N	N
+N
+N	N	V	N
+N
+N
+N
+N
+UNK
+UNK	N
+UNK
+N
+V	V
+UNK
+N
+I
+D
+I
+D
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+V
+N
+N	N
+N
+N	N	N
+N
+N
+N
+N	N	N
+N	N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N	N
+N
+N
+N	N	N	N	N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N	N	N	N	N
+N
+N	N
+N	N
+N	N	N
+N
+N
+N
+N
+N	N	N
+N	N	N
+N	N	N	N	N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+V
+N	N
+N
+N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N	N
+N
+N	N
+N	N
+N
+N
+N
+N	N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N	N	N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+V
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N	N
+N	N	N
+N
+N
+N
+N
+N
+N	N	N	N
+N
+N
+N	N	N	N	N
+N	N
+N
+N
+N
+N
+N	N	N
+N
+N
+N	N
+N
+N	N	N
+N
+N	N
+N
+N
+N
+N
+N	N	N	N
+N	N
+N	N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N	N
+N
+N
+N
+N	N
+N	N
+N	N
+N
+N	V	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N
+N
+N	N
+N	V
+N
+N	N
+N	N	N
+N	N	N	N	N	N
+N
+N	N
+N	N	N	N
+N
+N	N
+N
+N	N
+N	N
+N
+N
+N
+N	N
+N	N	N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N	N	N	N	N
+N	N	N	N
+N
+N
+N
+N
+N
+N
+N	N
+N	N	N
+N	N	N
+N	N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N	N	N	N	N	N	N	N	N	N	N
+N
+N
+N
+N	N	N
+N	N	N
+N
+N	N	N
+N	N
+N	N	N
+N	N
+N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N	N
+N	N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N	N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N	N	N
+N	N	N
+N
+N
+N
+N
+N	N	N	N	N	N	N
+N
+N
+N
+N
+N	N	N
+N	N
+N
+N	N	N
+N	N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N
+N
+N
+N
+N
+N	N
+N
+N
+V	N
+N	N	N	N	N	N	N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V	V
+N
+N
+N
+N
+N
+N
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+V
+N
+N	N
+V
+N
+N
+N
+V
+N	N
+N
+N	V
+N
+V
+V
+V
+V
+V
+V
+V
+N
+V	N	N	N	V
+V
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+V
+V
+N	N
+N
+V	N
+V
+V
+V
+V
+V
+V
+N	N
+N
+V	V
+V
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V	V
+V
+V
+V
+V
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+V
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N	N
+N	N
+N
+V
+N
+N	N	N
+N
+N
+N	N
+V
+N
+N
+N
+N
+N
+V	N	N	N	N
+N	N	N
+N
+N	V
+V
+N
+N
+N	N
+N
+N
+N
+UNK	N
+N	N
+N	N	N
+V
+V
+N
+N	N
+N
+N
+N	N
+N
+N
+V
+N	N
+N
+N
+N
+N	N	N	N	N	N	N	N	N
+N	N
+N
+V
+N
+N	N
+N	V	N	N	N	N
+N
+V
+N
+N	N
+V	V	N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N	N
+N
+V
+N
+N
+N
+N	N	N	N	N
+N	N
+N	N	N
+N
+N	N	N
+N
+N
+N
+N	N
+V
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N	N	N	N
+N	N
+N
+N	UNK
+N	N
+N
+N
+N	N	N
+N	N
+V	N
+N
+N
+V
+N
+N
+N
+N
+N	N
+N
+N
+V	N	N
+N
+UNK	N	N
+V
+V
+N
+N
+N
+N
+N
+V
+V
+N
+N
+N
+V
+V	N	N
+N
+N	V	V
+N
+V
+N	V	N
+N
+N
+N
+N
+N	N	V	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N
+N	N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N	N
+N	N	N
+N	N	N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N	N	N	N	N	N	N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N	N
+N	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N	N	N
+N
+N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+N	N
+N	N
+N
+N
+N	N	N	N
+N
+N	N	N
+N	N	N	N
+N	N
+N	N	N	N
+N	N
+N	N	N
+N	N
+N
+N	N
+N
+N
+N
+N	N
+N	N	N	N
+N
+N	N
+N
+N	N
+N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+V
+V
+N
+N	N
+V
+N	N
+V
+V
+V
+V
+V
+V
+V	V
+V
+V	V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+V
+N
+V
+V
+V
+N
+N
+N
+N
+N	N
+N
+N
+V
+V	N
+N
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+V
+N
+N
+N
+N
+V
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+V
+N
+N	N
+N
+N
+N
+V	V
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+V
+N
+N
+V
+N
+N
+N
+N
+N
+V
+N
+N	N	N
+V
+N
+N	V	N
+N	N	V
+N
+N	N
+V
+V
+N
+N	N
+N
+V
+N	N	N
+N
+V
+N
+V
+N
+N
+N
+N
+V
+N	V
+N	V
+V	N
+N
+V
+V
+N
+V
+V
+V
+V
+V
+V	V
+V
+V
+V
+N	N
+V
+V
+V
+V
+N
+N
+V
+N
+N
+N
+N
+V
+N
+V
+V
+N
+N
+N
+V
+N
+N	N
+N
+V
+V	V
+V
+N
+V
+N
+N
+V
+N
+N
+N
+V
+V
+UNK
+V	V
+V
+UNK
+N
+UNK
+N
+V
+N
+V
+UNK
+V
+V
+N
+V
+V
+N
+UNK
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+UNK
+N
+N
+N
+V
+N
+N
+N
+V
+UNK
+UNK
+N
+V
+N
+V
+V
+V
+UNK
+V
+N
+UNK
+N
+N
+D
+V
+N
+V
+V
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+V
+V
+N
+N
+V
+N
+D
+V
+N
+UNK
+N
+V
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N	N
+N
+N
+N	N	N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N
+N
+N
+N
+V
+UNK
+UNK
+V
+UNK
+UNK
+N	UNK	UNK
+UNK
+V
+N	UNK
+UNK
+N
+V
+UNK
+N	UNK
+V
+N
+V
+UNK
+UNK
+UNK	UNK	UNK	V
+N
+UNK
+UNK
+V
+V
+V
+N
+N
+UNK
+V
+N	V
+N
+UNK
+N
+N
+V
+V
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+N
+N	N
+V
+UNK	V
+N
+N
+N
+N
+N
+V
+V
+UNK
+N	N
+N	N
+N
+N	N
+N
+UNK
+N
+N
+UNK	N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+UNK
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+V
+N
+N
+N
+N
+N
+N
+V
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+V
+V
+V
+V
+N
+V
+V
+V
+V
+N
+N
+N	N
+N	N
+N
+N
+N	N
+N
+N
+N	N
+N	N
+N
+N
+N
+N
+V	N
+N
+N
+N	N
+N
+V	N	N
+N	N
+N	N
+N
+V	N	N
+N
+N
+N	N
+N
+UNK	N
+N	N
+N
+N
+N
+N
+N
+N
+V
+V	V
+N
+N
+N
+N
+N
+N
+V
+UNK
+V
+N
+N
+N
+UNK
+N
+N	N
+N
+UNK
+N
+N
+N
+N
+UNK
+V
+UNK
+N	N
+N
+N
+N
+N	UNK
+N
+N
+N
+N	N	N	N
+N
+N	N	N
+N
+N	N
+N	N
+N
+N
+N	N	N	N
+N	N
+N
+N
+N
+N
+N	N
+N	N
+N
+N
+N	N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N	N
+N
+N	UNK
+N	N
+N	V
+N
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N
+N	N
+N
+N
+N
+N	N	N	N	N
+N
+N
+N
+N
+N	N
+N
+N
+N
+N	N
+N	N
+UNK
+UNK
+N	N
+N	N
+N
+N	N
+UNK	N
+N	N
+N	N	N	N
+N	N
+N
+N	N	N	N	UNK	N	N
+N	N
+N	N
+N	N
+N	N
+N	N
+N	N
+N	N
+N	N	N	N
+N	N
+N	N	N
+N	N	N	N
+N
+UNK
+N
+UNK
+UNK
+N
+UNK
+UNK
+UNK
+N
+N
+UNK
+N
+N
+N
+UNK
+N
+V
+N	N
+N
+N
+N
+N
+N	N
+N	N
+N
+N
+N
+N	N	UNK
+UNK
+N
+N
+N
+N
+V
+UNK	N
+UNK
+UNK
+N	N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N	N
+N
+N
+N
+UNK
+N
+N
+N
+N	N
+UNK
+UNK
+N
+N
+N
+N
+N	N
+UNK
+V
+UNK
+UNK
+N	V	N
+N
+N
+UNK
+UNK
+UNK	N
+UNK
+T	N
+V
+N
+N
+V	V
+N	N
+N	N
+N
+N
+V
+V
+N
+T
+T
+T
+N
+V
+N
+N
+N
+V
+N
+V
+V	V
+V
+N
+V
+V
+N
+V
+V
 V

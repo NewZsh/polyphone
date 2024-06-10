@@ -135,8 +135,6 @@ def test(config, checkpoint, device, sent_path=None, lb_path=None, pos_path=None
         use_pos=config.use_pos,
         param_pos=config.param_pos
     )
-    print(model)
-    print(torch.load(checkpoint, map_location=device).keys())
     model.load_state_dict(torch.load(checkpoint, map_location=device))
     model.to(device)
 
@@ -174,21 +172,26 @@ def main(config_path):
 
     train_texts_cpp, train_query_ids_cpp, train_phonemes_cpp = prepare_data(config.train_sent_path_cpp, config.train_lb_path_cpp)
     train_texts_cvte, train_query_ids_cvte, train_phonemes_cvte = prepare_data(config.train_sent_path_cvte, config.train_lb_path_cvte)
-    train_texts = train_texts_cpp + train_texts_cvte
-    train_query_ids = train_query_ids_cpp + train_query_ids_cvte
-    train_phonemes = train_phonemes_cpp + train_phonemes_cvte
+    if config.with_cvte:
+        train_texts = train_texts_cpp + train_texts_cvte
+        train_query_ids = train_query_ids_cpp + train_query_ids_cvte
+        train_phonemes = train_phonemes_cpp + train_phonemes_cvte
+    else:
+        train_texts = train_texts_cpp
+        train_query_ids = train_query_ids_cpp
+        train_phonemes = train_phonemes_cpp
+        
     valid_texts, valid_query_ids, valid_phonemes = prepare_data(config.valid_sent_path, config.valid_lb_path)
 
-    train_pos_tags_cpp = prepare_pos(config.train_pos_path_cpp) if config.use_pos else None
-    train_pos_tags_cvte = prepare_pos(config.train_pos_path_cvte) if config.use_pos else None
-    train_pos_tags = train_pos_tags_cpp + train_pos_tags_cvte if config.use_pos else None
+    train_pos_tags_cpp = None
+    if config.use_pos:
+        train_pos_tags_cpp = prepare_pos(config.train_pos_path_cpp)
+        if config.with_cvte:
+            train_pos_tags_cvte = prepare_pos(config.train_pos_path_cvte)
+            train_pos_tags = train_pos_tags_cpp + train_pos_tags_cvte
+        else:
+            train_pos_tags = train_pos_tags_cpp
     valid_pos_tags = prepare_pos(config.valid_pos_path) if config.use_pos else None
-
-    print(len(train_texts_cpp), len(train_query_ids_cpp), len(train_phonemes_cpp), len(train_pos_tags_cpp))
-    print(len(train_texts_cvte), len(train_query_ids_cvte), len(train_phonemes_cvte), len(train_pos_tags_cvte))
-    print(len(train_texts), len(train_query_ids), len(train_phonemes), len(train_pos_tags))
-    print(len(valid_texts), len(valid_query_ids), len(valid_phonemes), len(valid_pos_tags))
-    exit()
 
     train_dataset = TextDataset(tokenizer, labels, char2phonemes, chars, train_texts, train_query_ids, phonemes=train_phonemes, pos_tags=train_pos_tags,
                                 use_mask=config.use_mask, use_char_phoneme=config.use_char_phoneme, use_pos=config.use_pos, window_size=config.window_size, for_train=True)
