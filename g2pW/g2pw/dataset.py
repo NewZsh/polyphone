@@ -31,13 +31,8 @@ def prepare_data(sent_path, lb_path=None):
         return texts, query_ids
     else:
         phonemes = []
-        i = 0
         for line in open(lb_path):
             line = line.rstrip()
-            i += 1
-            if line == '':
-                print(i)
-                exit()
             phonemes.extend(line.split())
         return texts, query_ids, phonemes
 
