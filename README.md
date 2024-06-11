@@ -28,8 +28,8 @@ Our paper: CVTE-Poly A New Benchmark for Chinese Polyphone Disambiguation, Inter
 | g2pM (ori paper BERT) | 97.85 | - | - |
 | g2pM (pip and test) | - | - | - |
 | g2pW (ori paper) | 99.08 | - | - |
-| g2pW (trained on CPP) | 0.990711 | 0.98608 | 0.964619 |
-| g2pW (trained on CPP + CVTE-poly) | 0.990711 | 0.985023 | 0.966914 |
+| g2pW (trained on CPP) | 99.0711 | 98.608 | 96.4619 |
+| g2pW (trained on CPP + CVTE-poly) | 99.0711 | 98.5023 | 96.6914 |
 | self (trained on CPP) | 
 | self (trained on CPP + CVTE-poly) |
 
