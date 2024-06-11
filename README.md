@@ -14,13 +14,13 @@ Our paper: CVTE-Poly A New Benchmark for Chinese Polyphone Disambiguation, Inter
     │   ├── POLYPHONIC_CHARS.txt  # generate from `digest_cedict.pkl` by script `cedict2csv.py`
     │   ├── cpp                   # combine `g2pm/data` and `g2pW/cpp_dataset`
     │   └── digest_cedict.pkl     # dictionary has been corrected
-    ├── g2pW
-    ├── g2pm
-    └── scripts
-        ├── cedict2csv.py
-        └── filter_pos.py         # adjust the `pos` files
+    │   └── cedict2csv.py 
+    │   └── POStagging.py         # generate the `.pos` files
+    ├── g2pW                      # fork from `g2pW` repo and modify
+    ├── g2pm 
+    └── scripts                   # my self model
 
 ### notes
-  - `.pos` files are prepared for g2pW training
-    - in `data/CVTE-poly`, the POS are labeled by `ckiptagger` [https://github.com/p208p2002/ckiptagger?tab=readme-ov-file], same as `g2pW` does
-    - in `data/cpp`, the POS are downloaded from `g2pW` repo and processed by `filter_pos.py`. Please refer to the scripts.
+  - `.pos` files are prepared for g2pW training. 
+  
+      The POS are labeled by `ckiptagger` [https://github.com/p208p2002/ckiptagger?tab=readme-ov-file], same as `g2pW` does. However, I do not directly download the `.pos` files for CPP dataset from `g2pW` repo, because the version of `ckiptagger` varied.
