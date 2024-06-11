@@ -20,7 +20,25 @@ Our paper: CVTE-Poly A New Benchmark for Chinese Polyphone Disambiguation, Inter
     ├── g2pm 
     └── scripts                   # my self model
 
+# results
+
+| | acc (Avg. by #sample) | acc (Avg. by #polyphone) | acc (Avg. by #phoneme) |
+|---|---|---|---|
+| g2pM (ori paper BiLSTM) | 97.31 | - | - |
+| g2pM (ori paper BERT) | 97.85 | - | - |
+| g2pM (pip and test) | - | - | - |
+| g2pW (ori paper) | 99.08 | - | - |
+| g2pW (trained on CPP) | 0.990711 | 0.98608 | 0.964619 |
+| g2pW (trained on CPP + CVTE-poly) | 0.990711 | 0.985023 | 0.966914 |
+| self (trained on CPP) | 
+| self (trained on CPP + CVTE-poly) |
+
+
 ### notes
   - `.pos` files are prepared for g2pW training. 
   
       The POS are labeled by `ckiptagger` [https://github.com/p208p2002/ckiptagger?tab=readme-ov-file], same as `g2pW` does. However, I do not directly download the `.pos` files for CPP dataset from `g2pW` repo, because the version of `ckiptagger` varied.
+
+  - results of original paper are over-estimated.
+  
+      In the original test set of CPP, there are **1319** sentences which take a non-polyphone as a target character. After removing these sentences, there are only **8925** sentences in the test set. Using the original test set results in over-estimation of the models.
